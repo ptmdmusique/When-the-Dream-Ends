@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 0cec7d7976e0aed4baaeee09cc644ea7
+timeCreated: 1500542582
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_SwordAttack_0
+    21300002: Player_SwordAttack_1
+    21300004: Player_SwordAttack_2
+    21300006: Player_SwordAttack_3
+    21300008: Player_SwordAttack_4
+    21300010: Player_SwordAttack_5
+    21300012: Player_SwordAttack_6
+    21300014: Player_SwordAttack_7
+    21300016: Player_SwordAttack_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 17
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_SwordAttack_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.37242815, y: 0.0036340693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_SwordAttack_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.36548615, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_SwordAttack_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.15936297, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_SwordAttack_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.07420416, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_SwordAttack_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0.14947386, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_SwordAttack_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.35806784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_SwordAttack_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.15111096, y: 0.004163128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_SwordAttack_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.30516663, y: 0.004329653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_SwordAttack_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3812256, y: 0.0000000829282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

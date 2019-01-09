@@ -1,0 +1,1 @@
+HellHound_Walking.png,128,128,11

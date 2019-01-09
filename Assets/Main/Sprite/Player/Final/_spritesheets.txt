@@ -1,0 +1,1 @@
+Player_Attack_Run.png,256,128,8
